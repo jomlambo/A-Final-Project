@@ -1,0 +1,78 @@
+
+/*FIRST HALF OF THIS PAGE IS DEDICATED TO THE HOME PAGE.(With some exceptions)*/
+
+/*background img in the header*/
+.jpg{
+    background-image: url('../images/security.jpg') !important;
+}
+
+/*this is for the back to top button to change the look of the hover effect*/
+.bt-img{
+    background-color: darkslategray;
+    border-top: black;
+    border-bottom: black;
+    border-right: black;
+    border-left: black;
+}
+
+/*background color of body*/
+.bg-img {
+    background-color: #f8f0e3;
+}
+/*centering some things on the home page*/
+.center-it {
+    text-align: center;
+}
+
+/*centering images on home page*/
+.centers {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 580px;
+}
+
+/*footer text formatting*/
+.ft {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+/*footer positioning*/
+.fb {
+    position: fixed;
+    text-align: center;
+    bottom: 0px;
+    height: 15px;
+    background-color: #f8f0e3;
+    width: 100%;
+}
+
+
+/*THIS PART OF THE PAGE IS DEDICATED TO THE ABOUT PAGE.*/
+
+.resumet {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.ta {
+    text-align: left;
+}
+
+.ct {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    color: grey;
+    font-size: 16px;
+}
+
+.margin-fix {
+    margin-bottom: 1px;
+    padding-bottom: 0px;
+}
